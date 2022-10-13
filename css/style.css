@@ -1,0 +1,56 @@
+.bold {
+  font-weight: bold;
+}
+
+body {
+  background-color: black;
+  margin-left: 20px;
+  font-size: large;
+}
+
+h1 {
+  color: darkgrey;
+  text-align: center;
+}
+
+.intro {
+  font-style: italic;
+  color: turquoise;
+  border: double turquoise 5px;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.first{
+  color: cornflowerblue;
+  font-family: sans-serif;
+}
+
+.second {
+  color: cadetblue;
+  font-family: cursive;
+}
+
+.third {
+  color: darkslateblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fourth {
+  color: thistle;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: dashed thistle 10px;
+}
+
+.me {
+  border: thistle dotted 5px;
+  color: white;
+  font-family: cursive;
+  font-style: italic;
+}
